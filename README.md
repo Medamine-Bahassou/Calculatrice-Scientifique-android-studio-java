@@ -55,4 +55,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## Remerciements
 
-- Remerciements particuliers à toute personne ou ressource qui vous a aidé à créer ce projet.
+- Remerciements particuliers à notre Prof. Hassan ZILI.
