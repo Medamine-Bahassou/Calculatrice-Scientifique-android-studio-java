@@ -13,8 +13,8 @@ Ce projet est une calculatrice scientifique développée en utilisant Android St
 ![crop calc](https://github.com/Medamine-Bahassou/Calculatrice-Scientifique-android-studio-java/assets/146652318/d16adb14-65e6-44c1-b6a2-db86f141499d)
 
 # Contributor
-Developed by: Mohamed Amine BAHASSOU
-Supervised by: Pr. Hassan ZILI
+- **Developed by:** Mohamed Amine BAHASSOU
+- **Supervised by:** Pr. Hassan ZILI
 
 ## Installation
 
