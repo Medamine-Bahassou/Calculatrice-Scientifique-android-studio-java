@@ -16,10 +16,6 @@ Ce projet est une calculatrice scientifique développée en utilisant Android St
 
 ![Running-Devices-Calculator-2024-06-15-14-31-25-ezgif com-crop](https://github.com/Medamine-Bahassou/Calculatrice-Scientifique-android-studio-java/assets/146652318/d6c7f4b0-d32e-45d2-a42c-4f35e1389e23)
 
-# Contributor
-- **Developed by:** Mohamed Amine BAHASSOU
-- **Supervised by:** Pr. Hassan ZILI
-
 ## Installation
 
 1. Clonez le dépôt :
@@ -56,7 +52,7 @@ Les contributions sont les bienvenues ! Suivez ces étapes pour contribuer :
 ## Auteurs
 
 - **Mohamed Amine Bahassou** - *Développeur principal* 
-
+- **Hassan ZILI** - Encadrant
 ## License
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
