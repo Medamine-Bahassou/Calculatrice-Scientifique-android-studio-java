@@ -52,7 +52,7 @@ Les contributions sont les bienvenues ! Suivez ces étapes pour contribuer :
 ## Auteurs
 
 - **Mohamed Amine Bahassou** - *Développeur principal* 
-- **Hassan ZILI** - Encadrant
+- **Hassan ZILI** - *Encadrant*
 ## License
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
