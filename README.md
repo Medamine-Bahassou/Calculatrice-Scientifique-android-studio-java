@@ -16,7 +16,7 @@ Ce projet est une calculatrice scientifique développée en utilisant Android St
 
 1. Clonez le dépôt :
     ```
-    git clone https://github.com/votre-utilisateur/votre-repo.git
+    git clone https://github.com/Medamine-Bahassou/Calculatrice-Scientifique-android-studio-java.git
     ```
 
 2. Ouvrez le projet dans Android Studio.
