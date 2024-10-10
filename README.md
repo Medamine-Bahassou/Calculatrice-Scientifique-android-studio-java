@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/96e49284-86a5-4a21-be55-57f6feb1536e" width="250"/>
+</div>
+
 # Calculatrice Scientifique android studio & java
 Ce projet est une calculatrice scientifique développée en utilisant Android Studio et Java. La calculatrice prend en charge la gestion des parenthèses ainsi que les fonctions trigonométriques comme sin, cos, tan, etc.
 
